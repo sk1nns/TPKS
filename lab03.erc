@@ -1,0 +1,198 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+C:\Users\evvidz\Desktop\ÕÓ‚‡ˇ Ô‡ÔÍ‡\lab03.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net NET00031 has no input pins
+Warning 2 -- Net NET00031 has no output pins
+Warning 3 -- Net 1 has no input pins
+Warning 4 -- Net 1 has no output pins
+Warning 5 -- Net NET00057 has no input pins
+Warning 6 -- Net NET00057 has no output pins
+Warning 7 -- Net NET00058 has no input pins
+Warning 8 -- Net NET00058 has no output pins
+Warning 9 -- Net NET00003 has no input pins
+Warning 10 -- Net NET00003 has no output pins
+Warning 11 -- Net NET00004 has no input pins
+Warning 12 -- Net NET00004 has no output pins
+Warning 13 -- Net NET00005 has no input pins
+Warning 14 -- Net NET00005 has no output pins
+Warning 15 -- Net NET00056 has no input pins
+Warning 16 -- Net NET00056 has no output pins
+Warning 17 -- Net NET00050 has no input pins
+Warning 18 -- Net NET00050 has no output pins
+Warning 19 -- Net NET00010 has no input pins
+Warning 20 -- Net NET00010 has no output pins
+Warning 21 -- Net NET00046 has no input pins
+Warning 22 -- Net NET00046 has no output pins
+Warning 23 -- Net NET00012 has no input pins
+Warning 24 -- Net NET00012 has no output pins
+Warning 25 -- Net NET00052 has no input pins
+
+----------------------------------------------------------------------
+
+21-May-20  16:33                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 26 -- Net NET00052 has no output pins
+Warning 27 -- Net NET00021 has no input pins
+Warning 28 -- Net NET00021 has no output pins
+Warning 29 -- Net NET00059 has no input pins
+Warning 30 -- Net NET00059 has no output pins
+Warning 31 -- Net NET00051 has no input pins
+Warning 32 -- Net NET00051 has no output pins
+Warning 33 -- Net NET00049 has no input pins
+Warning 34 -- Net NET00049 has no output pins
+Warning 35 -- Net NET00007 has no input pins
+Warning 36 -- Net NET00007 has no output pins
+Warning 37 -- Net NET00030 has no input pins
+Warning 38 -- Net NET00030 has no output pins
+Warning 39 -- Net NET00000 has no input pins
+Warning 40 -- Net NET00000 has no output pins
+Warning 41 -- Net NET00033 has no input pins
+Warning 42 -- Net NET00033 has no output pins
+Warning 43 -- Net NET00034 has no input pins
+Warning 44 -- Net NET00034 has no output pins
+Warning 45 -- Net NET00035 has no input pins
+Warning 46 -- Net NET00035 has no output pins
+Warning 47 -- Net NET00036 has no input pins
+Warning 48 -- Net NET00036 has no output pins
+Warning 49 -- Net NET00040 has no input pins
+Warning 50 -- Net NET00040 has no output pins
+
+50 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+Warning 51 -- Power symbol  ŒÕ“¿ “2 is connected to net 1 at location 395.200mm
+, 262.800mm, on sheet 52516552.  The net name is ambiguous.
+
+----------------------------------------------------------------------
+
+21-May-20  16:33                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 52 -- Power symbol  ŒÕ“¿ “2 is connected to net 1 at location 149.000mm
+, 253.600mm, on sheet 52516552.  The net name is ambiguous.
+Warning 53 -- Power symbol  ŒÕ“¿ “2 is connected to net 1 at location 291.800mm
+, 112.400mm, on sheet 52516552.  The net name is ambiguous.
+
+3 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       50
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       3
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+----------------------------------------------------------------------
+
+21-May-20  16:33                                            Page    3
+
