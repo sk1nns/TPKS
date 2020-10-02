@@ -1,0 +1,1122 @@
+P-CAD Design Rule Check Report
+
+======================================================================
+
+G:\ройя\4\4.drc:
+
+
+Design Clearances (in mils):
+-------------------------------
+Silk Screen Clearance:  12.0mil
+Hole-Hole Clearance:    13.0mil
+Board Edge Clearance:   Not Defined
+
+
+Layer Clearances (in mils):
+-------------------------------
+
+Layer Name          Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+Top                    12.0      12.0      12.0      12.0      12.0      12.0
+Bottom                 12.0      12.0      12.0      12.0      12.0      12.0
+
+
+Net Class Clearances (in mils):
+-------------------------------
+Net Class Name      Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Net Clearances (In mils):
+-------------------------
+Net Name            Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+Net Class To Net Class Clearances (in mils):
+--------------------------------------------
+Net Class Names     Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Area Checked:
+-------------
+
+DRC Extents:            Entire Workspace
+
+
+DRC Report Options:
+-------------------
+
+Net List Compare:                       Off
+Clearance Violations:                   Off
+Text Violations:                        Off
+Same-Parent-Component Pad Violations:   Off
+Net List Violations:                    On
+Unrouted Nets:                          On
+Unconnected Pins:                       On
+Net Length Violations:                  On
+Silk Violations:                        On
+Copper Pour Violations:                 On
+Plane Violations:                       On
+Component Violations:                   On
+Drill Violations:                       On
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    1
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Test Point Violations:                  Off
+
+DRC Errors:
+-----------
+
+
+NETLIST VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+UNROUTED NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Error 1 -- Unconnected pin:
+   * Pad U5-7 at (30300.0,6604.7) mils
+Error 2 -- Unconnected pin:
+   * Pad U5-6 at (30300.0,6653.9) mils
+Error 3 -- Unconnected pin:
+   * Pad U5-5 at (30300.0,6703.1) mils
+Error 4 -- Unconnected pin:
+   * Pad U5-8 at (30587.4,6604.7) mils
+Error 5 -- Unconnected pin:
+   * Pad U5-9 at (30587.4,6653.9) mils
+Error 6 -- Unconnected pin:
+   * Pad U5-10 at (30587.4,6703.1) mils
+Error 7 -- Unconnected pin:
+   * Pad U5-12 at (30587.4,6801.6) mils
+Error 8 -- Unconnected pin:
+   * Pad U5-13 at (30587.4,6850.8) mils
+Error 9 -- Unconnected pin:
+   * Pad U5-14 at (30587.4,6900.0) mils
+Error 10 -- Unconnected pin:
+   * Pad U5-4 at (30300.0,6752.4) mils
+Error 11 -- Unconnected pin:
+   * Pad U5-11 at (30587.4,6752.4) mils
+Error 12 -- Unconnected pin:
+   * Pad U3-7 at (28250.0,7304.7) mils
+Error 13 -- Unconnected pin:
+   * Pad U3-6 at (28250.0,7353.9) mils
+Error 14 -- Unconnected pin:
+   * Pad U3-5 at (28250.0,7403.1) mils
+Error 15 -- Unconnected pin:
+   * Pad U3-8 at (28537.4,7304.7) mils
+Error 16 -- Unconnected pin:
+   * Pad U3-9 at (28537.4,7353.9) mils
+Error 17 -- Unconnected pin:
+   * Pad U3-10 at (28537.4,7403.1) mils
+Error 18 -- Unconnected pin:
+   * Pad U3-12 at (28537.4,7501.6) mils
+Error 19 -- Unconnected pin:
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    2
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Pad U3-13 at (28537.4,7550.8) mils
+Error 20 -- Unconnected pin:
+   * Pad U3-14 at (28537.4,7600.0) mils
+Error 21 -- Unconnected pin:
+   * Pad U3-4 at (28250.0,7452.4) mils
+Error 22 -- Unconnected pin:
+   * Pad U3-11 at (28537.4,7452.4) mils
+Error 23 -- Unconnected pin:
+   * Pad U4-7 at (29350.0,7304.7) mils
+Error 24 -- Unconnected pin:
+   * Pad U4-6 at (29350.0,7353.9) mils
+Error 25 -- Unconnected pin:
+   * Pad U4-5 at (29350.0,7403.1) mils
+Error 26 -- Unconnected pin:
+   * Pad U4-8 at (29637.4,7304.7) mils
+Error 27 -- Unconnected pin:
+   * Pad U4-9 at (29637.4,7353.9) mils
+Error 28 -- Unconnected pin:
+   * Pad U4-10 at (29637.4,7403.1) mils
+Error 29 -- Unconnected pin:
+   * Pad U4-12 at (29637.4,7501.6) mils
+Error 30 -- Unconnected pin:
+   * Pad U4-13 at (29637.4,7550.8) mils
+Error 31 -- Unconnected pin:
+   * Pad U4-14 at (29637.4,7600.0) mils
+Error 32 -- Unconnected pin:
+   * Pad U4-4 at (29350.0,7452.4) mils
+Error 33 -- Unconnected pin:
+   * Pad U4-11 at (29637.4,7452.4) mils
+Error 34 -- Unconnected pin:
+   * Pad U7-7 at (29250.0,5954.7) mils
+Error 35 -- Unconnected pin:
+   * Pad U7-6 at (29250.0,6003.9) mils
+Error 36 -- Unconnected pin:
+   * Pad U7-5 at (29250.0,6053.1) mils
+Error 37 -- Unconnected pin:
+   * Pad U7-8 at (29537.4,5954.7) mils
+Error 38 -- Unconnected pin:
+   * Pad U7-9 at (29537.4,6003.9) mils
+Error 39 -- Unconnected pin:
+   * Pad U7-10 at (29537.4,6053.1) mils
+Error 40 -- Unconnected pin:
+   * Pad U7-12 at (29537.4,6151.6) mils
+Error 41 -- Unconnected pin:
+   * Pad U7-13 at (29537.4,6200.8) mils
+Error 42 -- Unconnected pin:
+   * Pad U7-14 at (29537.4,6250.0) mils
+Error 43 -- Unconnected pin:
+   * Pad U7-4 at (29250.0,6102.4) mils
+Error 44 -- Unconnected pin:
+   * Pad U7-11 at (29537.4,6102.4) mils
+Error 45 -- Unconnected pin:
+   * Pad VT4-3 at (32996.9,7400.0) mils
+Error 46 -- Unconnected pin:
+   * Pad U2-6 at (26400.0,7803.9) mils
+Error 47 -- Unconnected pin:
+   * Pad U2-5 at (26400.0,7853.1) mils
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    3
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Error 48 -- Unconnected pin:
+   * Pad U2-8 at (26687.4,7754.7) mils
+Error 49 -- Unconnected pin:
+   * Pad U2-9 at (26687.4,7803.9) mils
+Error 50 -- Unconnected pin:
+   * Pad U2-10 at (26687.4,7853.1) mils
+Error 51 -- Unconnected pin:
+   * Pad U2-12 at (26687.4,7951.6) mils
+Error 52 -- Unconnected pin:
+   * Pad U2-13 at (26687.4,8000.8) mils
+Error 53 -- Unconnected pin:
+   * Pad U2-4 at (26400.0,7902.4) mils
+Error 54 -- Unconnected pin:
+   * Pad U2-11 at (26687.4,7902.4) mils
+Error 55 -- Unconnected pin:
+   * Pad C8-1 at (31300.0,6650.0) mils
+Error 56 -- Unconnected pin:
+   * Pad U6-7 at (30800.0,7554.7) mils
+Error 57 -- Unconnected pin:
+   * Pad U6-6 at (30800.0,7603.9) mils
+Error 58 -- Unconnected pin:
+   * Pad U6-5 at (30800.0,7653.1) mils
+Error 59 -- Unconnected pin:
+   * Pad U6-8 at (31087.4,7554.7) mils
+Error 60 -- Unconnected pin:
+   * Pad U6-9 at (31087.4,7603.9) mils
+Error 61 -- Unconnected pin:
+   * Pad U6-10 at (31087.4,7653.1) mils
+Error 62 -- Unconnected pin:
+   * Pad U6-12 at (31087.4,7751.6) mils
+Error 63 -- Unconnected pin:
+   * Pad U6-13 at (31087.4,7800.8) mils
+Error 64 -- Unconnected pin:
+   * Pad U6-14 at (31087.4,7850.0) mils
+Error 65 -- Unconnected pin:
+   * Pad U6-4 at (30800.0,7702.4) mils
+Error 66 -- Unconnected pin:
+   * Pad U6-11 at (31087.4,7702.4) mils
+Error 67 -- Unconnected pin:
+   * Pad U1-6 at (25100.0,8303.9) mils
+Error 68 -- Unconnected pin:
+   * Pad U1-5 at (25100.0,8353.1) mils
+Error 69 -- Unconnected pin:
+   * Pad U1-8 at (25387.4,8254.7) mils
+Error 70 -- Unconnected pin:
+   * Pad U1-9 at (25387.4,8303.9) mils
+Error 71 -- Unconnected pin:
+   * Pad U1-10 at (25387.4,8353.1) mils
+Error 72 -- Unconnected pin:
+   * Pad U1-12 at (25387.4,8451.6) mils
+Error 73 -- Unconnected pin:
+   * Pad U1-13 at (25387.4,8500.8) mils
+Error 74 -- Unconnected pin:
+   * Pad U1-4 at (25100.0,8402.4) mils
+Error 75 -- Unconnected pin:
+   * Pad U1-11 at (25387.4,8402.4) mils
+Error 76 -- Unconnected pin:
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    4
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Pad U8-7 at (28500.0,5954.7) mils
+Error 77 -- Unconnected pin:
+   * Pad U8-6 at (28500.0,6003.9) mils
+Error 78 -- Unconnected pin:
+   * Pad U8-5 at (28500.0,6053.1) mils
+Error 79 -- Unconnected pin:
+   * Pad U8-8 at (28787.4,5954.7) mils
+Error 80 -- Unconnected pin:
+   * Pad U8-9 at (28787.4,6003.9) mils
+Error 81 -- Unconnected pin:
+   * Pad U8-10 at (28787.4,6053.1) mils
+Error 82 -- Unconnected pin:
+   * Pad U8-12 at (28787.4,6151.6) mils
+Error 83 -- Unconnected pin:
+   * Pad U8-13 at (28787.4,6200.8) mils
+Error 84 -- Unconnected pin:
+   * Pad U8-14 at (28787.4,6250.0) mils
+Error 85 -- Unconnected pin:
+   * Pad U8-4 at (28500.0,6102.4) mils
+Error 86 -- Unconnected pin:
+   * Pad U8-11 at (28787.4,6102.4) mils
+
+0 warning(s) detected.
+86 error(s) detected.
+Warning: Net length violation tests were not performed because
+         of missing MinNetLength, MaxNetLength, or MatchedLength rules.
+
+NETLIST LENGTH VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+SILK SCREEN CLEARANCE VIOLATIONS:
+
+Error 87 -- Clearance Violation between:
+   * Line at (30160.6,7521.3):(30160.6,7678.7) mils [Top Silk layer]
+   * Pad C5-1 at (30200.0,7600.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 88 -- Clearance Violation between:
+   * Line at (30554.3,7678.7):(30554.3,7521.3) mils [Top Silk layer]
+   * Pad C5-2 at (30515.0,7600.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 89 -- Clearance Violation between:
+   * Line at (20960.6,6221.3):(20960.6,6378.7) mils [Top Silk layer]
+   * Pad C1-1 at (21000.0,6300.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 90 -- Clearance Violation between:
+   * Line at (21354.3,6378.7):(21354.3,6221.3) mils [Top Silk layer]
+   * Pad C1-2 at (21315.0,6300.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 91 -- Clearance Violation between:
+   * Line at (23660.6,6171.3):(23660.6,6328.7) mils [Top Silk layer]
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    5
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Pad C2-1 at (23700.0,6250.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 92 -- Clearance Violation between:
+   * Line at (24054.3,6328.7):(24054.3,6171.3) mils [Top Silk layer]
+   * Pad C2-2 at (24015.0,6250.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 93 -- Clearance Violation between:
+   * Line at (25710.6,7971.3):(25710.6,8128.7) mils [Top Silk layer]
+   * Pad C3-1 at (25750.0,8050.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 94 -- Clearance Violation between:
+   * Line at (26104.3,8128.7):(26104.3,7971.3) mils [Top Silk layer]
+   * Pad C3-2 at (26065.0,8050.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 95 -- Clearance Violation between:
+   * Attribute at (29798.4,5459.1) mils [Top Silk layer]
+   * Text=VT2
+   * Pad R8-1 at (29800.0,5550.0) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 96 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-6 at (30300.0,6653.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 97 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-5 at (30300.0,6703.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 98 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-3 at (30300.0,6801.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 99 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-2 at (30300.0,6850.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 100 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-4 at (30300.0,6752.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 101 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-7 at (30300.0,6604.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 102 -- Clearance Violation between:
+   * Line at (30325.6,6555.5):(30325.6,6949.2) mils [Top Silk layer]
+   * Pad U5-1 at (30300.0,6900.0) mils [Top layer]
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    6
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 103 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-9 at (30587.4,6653.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 104 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-10 at (30587.4,6703.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 105 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-12 at (30587.4,6801.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 106 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-13 at (30587.4,6850.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 107 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-11 at (30587.4,6752.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 108 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-8 at (30587.4,6604.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 109 -- Clearance Violation between:
+   * Line at (30561.8,6949.2):(30561.8,6555.5) mils [Top Silk layer]
+   * Pad U5-14 at (30587.4,6900.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 110 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-7 at (28250.0,7304.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 111 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-6 at (28250.0,7353.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 112 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-5 at (28250.0,7403.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 113 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-4 at (28250.0,7452.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    7
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Error 114 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-2 at (28250.0,7550.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 115 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-1 at (28250.0,7600.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 116 -- Clearance Violation between:
+   * Line at (28275.6,7255.5):(28275.6,7649.2) mils [Top Silk layer]
+   * Pad U3-3 at (28250.0,7501.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 117 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-8 at (28537.4,7304.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 118 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-9 at (28537.4,7353.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 119 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-10 at (28537.4,7403.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 120 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-11 at (28537.4,7452.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 121 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-13 at (28537.4,7550.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 122 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-14 at (28537.4,7600.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 123 -- Clearance Violation between:
+   * Line at (28511.8,7649.2):(28511.8,7255.5) mils [Top Silk layer]
+   * Pad U3-12 at (28537.4,7501.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 124 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+   * Pad U4-7 at (29350.0,7304.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 125 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    8
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Pad U4-6 at (29350.0,7353.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 126 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+   * Pad U4-5 at (29350.0,7403.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 127 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+   * Pad U4-4 at (29350.0,7452.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 128 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+   * Pad U4-2 at (29350.0,7550.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 129 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+   * Pad U4-1 at (29350.0,7600.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 130 -- Clearance Violation between:
+   * Line at (29375.6,7255.5):(29375.6,7649.2) mils [Top Silk layer]
+   * Pad U4-3 at (29350.0,7501.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 131 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-8 at (29637.4,7304.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 132 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-9 at (29637.4,7353.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 133 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-10 at (29637.4,7403.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 134 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-11 at (29637.4,7452.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 135 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-13 at (29637.4,7550.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 136 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-14 at (29637.4,7600.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page    9
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 137 -- Clearance Violation between:
+   * Line at (29611.8,7649.2):(29611.8,7255.5) mils [Top Silk layer]
+   * Pad U4-12 at (29637.4,7501.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 138 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-7 at (29250.0,5954.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 139 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-5 at (29250.0,6053.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 140 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-3 at (29250.0,6151.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 141 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-2 at (29250.0,6200.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 142 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-1 at (29250.0,6250.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 143 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-4 at (29250.0,6102.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 144 -- Clearance Violation between:
+   * Line at (29275.6,5905.5):(29275.6,6299.2) mils [Top Silk layer]
+   * Pad U7-6 at (29250.0,6003.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 145 -- Clearance Violation between:
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-8 at (29537.4,5954.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 146 -- Clearance Violation between:
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-10 at (29537.4,6053.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 147 -- Clearance Violation between:
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-12 at (29537.4,6151.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 148 -- Clearance Violation between:
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   10
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-13 at (29537.4,6200.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 149 -- Clearance Violation between:
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-14 at (29537.4,6250.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 150 -- Clearance Violation between:
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-11 at (29537.4,6102.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 151 -- Clearance Violation between:
+   * Line at (29511.8,6299.2):(29511.8,5905.5) mils [Top Silk layer]
+   * Pad U7-9 at (29537.4,6003.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 152 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-7 at (26400.0,7754.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 153 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-5 at (26400.0,7853.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 154 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-3 at (26400.0,7951.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 155 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-2 at (26400.0,8000.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 156 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-1 at (26400.0,8050.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 157 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-4 at (26400.0,7902.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 158 -- Clearance Violation between:
+   * Line at (26425.6,7705.5):(26425.6,8099.2) mils [Top Silk layer]
+   * Pad U2-6 at (26400.0,7803.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 159 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-8 at (26687.4,7754.7) mils [Top layer]
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   11
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 160 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-10 at (26687.4,7853.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 161 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-12 at (26687.4,7951.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 162 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-13 at (26687.4,8000.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 163 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-14 at (26687.4,8050.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 164 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-11 at (26687.4,7902.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 165 -- Clearance Violation between:
+   * Line at (26661.8,8099.2):(26661.8,7705.5) mils [Top Silk layer]
+   * Pad U2-9 at (26687.4,7803.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 166 -- Clearance Violation between:
+   * Line at (29810.6,6171.3):(29810.6,6328.7) mils [Top Silk layer]
+   * Pad C4-1 at (29850.0,6250.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 167 -- Clearance Violation between:
+   * Line at (30204.3,6328.7):(30204.3,6171.3) mils [Top Silk layer]
+   * Pad C4-2 at (30165.0,6250.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 168 -- Clearance Violation between:
+   * Line at (31260.6,6571.3):(31260.6,6728.7) mils [Top Silk layer]
+   * Pad C8-1 at (31300.0,6650.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 169 -- Clearance Violation between:
+   * Line at (31654.3,6728.7):(31654.3,6571.3) mils [Top Silk layer]
+   * Pad C8-2 at (31615.0,6650.0) mils [Top layer]
+   * Calculated Clearance: 10.7mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 170 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-7 at (30800.0,7554.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   12
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Error 171 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-6 at (30800.0,7603.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 172 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-5 at (30800.0,7653.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 173 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-3 at (30800.0,7751.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 174 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-4 at (30800.0,7702.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 175 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-1 at (30800.0,7850.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 176 -- Clearance Violation between:
+   * Line at (30825.6,7505.5):(30825.6,7899.2) mils [Top Silk layer]
+   * Pad U6-2 at (30800.0,7800.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 177 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+   * Pad U6-8 at (31087.4,7554.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 178 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+   * Pad U6-9 at (31087.4,7603.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 179 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+   * Pad U6-10 at (31087.4,7653.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 180 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+   * Pad U6-12 at (31087.4,7751.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 181 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+   * Pad U6-11 at (31087.4,7702.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 182 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   13
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Pad U6-14 at (31087.4,7850.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 183 -- Clearance Violation between:
+   * Line at (31061.8,7899.2):(31061.8,7505.5) mils [Top Silk layer]
+   * Pad U6-13 at (31087.4,7800.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 184 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-7 at (25100.0,8254.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 185 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-6 at (25100.0,8303.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 186 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-5 at (25100.0,8353.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 187 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-3 at (25100.0,8451.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 188 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-2 at (25100.0,8500.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 189 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-1 at (25100.0,8550.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 190 -- Clearance Violation between:
+   * Line at (25125.6,8205.5):(25125.6,8599.2) mils [Top Silk layer]
+   * Pad U1-4 at (25100.0,8402.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 191 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-8 at (25387.4,8254.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 192 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-9 at (25387.4,8303.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 193 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-10 at (25387.4,8353.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   14
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 194 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-12 at (25387.4,8451.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 195 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-13 at (25387.4,8500.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 196 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-14 at (25387.4,8550.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 197 -- Clearance Violation between:
+   * Line at (25361.8,8599.2):(25361.8,8205.5) mils [Top Silk layer]
+   * Pad U1-11 at (25387.4,8402.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 198 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-7 at (28500.0,5954.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 199 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-5 at (28500.0,6053.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 200 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-3 at (28500.0,6151.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 201 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-2 at (28500.0,6200.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 202 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-1 at (28500.0,6250.0) mils [Top layer]
+   * Calculated Clearance: 8.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 203 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-4 at (28500.0,6102.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 204 -- Clearance Violation between:
+   * Line at (28525.6,5905.5):(28525.6,6299.2) mils [Top Silk layer]
+   * Pad U8-6 at (28500.0,6003.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 205 -- Clearance Violation between:
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   15
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-8 at (28787.4,5954.7) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 206 -- Clearance Violation between:
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-10 at (28787.4,6053.1) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 207 -- Clearance Violation between:
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-12 at (28787.4,6151.6) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 208 -- Clearance Violation between:
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-13 at (28787.4,6200.8) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 209 -- Clearance Violation between:
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-14 at (28787.4,6250.0) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 210 -- Clearance Violation between:
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-11 at (28787.4,6102.4) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+Error 211 -- Clearance Violation between:
+   * Line at (28761.8,6299.2):(28761.8,5905.5) mils [Top Silk layer]
+   * Pad U8-9 at (28787.4,6003.9) mils [Top layer]
+   * Calculated Clearance: 5.3mil.
+   * Rule: Design.SilkscreenClearance=12.0mil
+
+0 warning(s) detected.
+125 error(s) detected.
+
+WIDTH VIOLATIONS:
+
+Warning: Width violation tests were not performed because
+         of missing Width rule.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COPPER POUR VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+PLANE VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   16
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+
+COMPONENT VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+DRILL VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+DRC Summary:
+------------
+
+Netlist:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Unrouted Nets:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Unconnected Pins:
+	Errors:         86
+	Warnings:       0
+	Ignored Errors: 0
+Net Length:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Silk Screen:
+	Errors:         125
+	Warnings:       0
+	Ignored Errors: 0
+Width:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Copper Pour:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Plane:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Drilling:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+----------------------------------------------------------------------
+
+26-May-20  22:24                                            Page   17
+
