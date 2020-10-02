@@ -1,0 +1,79 @@
+PCAD Importer Log
+Project : ANALOGDEVICES_LETUNOV.LibPkg
+
+Section : C:\Users\bleckhavk\Desktop\TPKS-master\lab02\ANALOGDEVICES_LETUNOV.LIA
+    Section : PCB Library - ANALOGDEVICES_LETUNOV.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 136
+            Warning - 1 : Skipping Token defaultPinDes On Line 137
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 139
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 141
+            Warning - 1 : Skipping Token defaultPinDes On Line 142
+            Warning - 1 : Skipping Token defaultPinDes On Line 143
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 147
+            Warning - 1 : Skipping Token defaultPinDes On Line 148
+            Warning - 1 : Skipping Token defaultPinDes On Line 149
+            Warning - 1 : Skipping Token defaultPinDes On Line 150
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+            Warning - 1 : Skipping Token DIGITAL_CHIP On Line 228
+            Warning - 1 : Skipping Token KATUSHKA8 On Line 371
+            Warning - 1 : Skipping Token KONDENSATOR On Line 398
+            Warning - 1 : Skipping Token TRANSISTOR_NPM On Line 422
+            Warning - 1 : Skipping Token attachedSymbol On Line 486
+            Warning - 1 : Skipping Token attachedSymbol On Line 520
+            Warning - 1 : Skipping Token attachedSymbol On Line 540
+            Warning - 1 : Skipping Token attachedSymbol On Line 561
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ANALOGDEVICES_LETUNOV.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 54
+            Warning - 1 : Skipping Token viaStyleDef On Line 64
+            Warning - 1 : Skipping Token multiLayer On Line 135
+            Warning - 1 : Skipping Token layerContents On Line 153
+            Warning - 1 : Skipping Token multiLayer On Line 171
+            Warning - 1 : Skipping Token layerContents On Line 175
+            Warning - 1 : Skipping Token multiLayer On Line 191
+            Warning - 1 : Skipping Token layerContents On Line 196
+            Warning - 1 : Skipping Token multiLayer On Line 216
+            Warning - 1 : Skipping Token layerContents On Line 220
+            Warning - 1 : Skipping Token defaultPinDes On Line 236
+            Warning - 1 : Skipping Token defaultPinDes On Line 244
+            Warning - 1 : Skipping Token defaultPinDes On Line 252
+            Warning - 1 : Skipping Token defaultPinDes On Line 260
+            Warning - 1 : Skipping Token defaultPinDes On Line 268
+            Warning - 1 : Skipping Token defaultPinDes On Line 276
+            Warning - 1 : Skipping Token defaultPinDes On Line 284
+            Warning - 1 : Skipping Token defaultPinDes On Line 292
+            Warning - 1 : Skipping Token defaultPinDes On Line 300
+            Warning - 1 : Skipping Token defaultPinDes On Line 308
+            Warning - 1 : Skipping Token defaultPinDes On Line 316
+            Warning - 1 : Skipping Token defaultPinDes On Line 324
+            Warning - 1 : Skipping Token defaultPinDes On Line 332
+            Warning - 1 : Skipping Token defaultPinDes On Line 340
+            Warning - 1 : Skipping Token defaultPinDes On Line 379
+            Warning - 1 : Skipping Token defaultPinDes On Line 387
+            Warning - 1 : Skipping Token defaultPinDes On Line 406
+            Warning - 1 : Skipping Token defaultPinDes On Line 414
+            Warning - 1 : Skipping Token defaultPinDes On Line 430
+            Warning - 1 : Skipping Token defaultPinDes On Line 438
+            Warning - 1 : Skipping Token defaultPinDes On Line 446
+        EndSection
+
+        Section : Generating SCH Library - ANALOGDEVICES_LETUNOV.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,109 @@
+PCAD Importer Log
+Project : LAB03.LibPkg
+
+Section : C:\Users\bleckhavk\Desktop\Lab03\LAB03.LIA
+    Section : PCB Library - LAB03.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+            Warning - 1 : Skipping Token defaultPinDes On Line 340
+            Warning - 1 : Skipping Token defaultPinDes On Line 341
+            Warning - 1 : Skipping Token defaultPinDes On Line 423
+            Warning - 1 : Skipping Token defaultPinDes On Line 424
+            Warning - 1 : Skipping Token C On Line 439
+            Warning - 1 : Skipping Token C+ On Line 463
+            Warning - 1 : Skipping Token GND On Line 488
+            Warning - 1 : Skipping Token R125 On Line 504
+            Warning - 1 : Skipping Token TURN On Line 532
+            Warning - 1 : Skipping Token VT(NPN) On Line 555
+            Warning - 1 : Skipping Token ¿Õ“≈ÕÕ¿(Õ≈—»ÃÃ≈“–»◊Õ¿ﬂ) On Line 591
+            Warning - 1 : Skipping Token ƒ»Œƒ On Line 608
+            Warning - 1 : Skipping Token «œ-3 On Line 635
+            Warning - 1 : Skipping Token  ŒÕ“¿ “2 On Line 660
+            Warning - 1 : Skipping Token  –1564À¿3 On Line 677
+            Warning - 1 : Skipping Token —¬≈“Œƒ»Œƒ On Line 709
+            Warning - 1 : Skipping Token attachedSymbol On Line 755
+            Warning - 1 : Skipping Token attachedSymbol On Line 769
+            Warning - 1 : Skipping Token attachedSymbol On Line 790
+            Warning - 1 : Skipping Token attachedSymbol On Line 812
+            Warning - 1 : Skipping Token attachedSymbol On Line 833
+            Warning - 1 : Skipping Token attachedSymbol On Line 854
+            Warning - 1 : Skipping Token attachedSymbol On Line 875
+            Warning - 1 : Skipping Token attachedSymbol On Line 894
+            Warning - 1 : Skipping Token attachedSymbol On Line 914
+            Warning - 1 : Skipping Token attachedSymbol On Line 934
+            Warning - 1 : Skipping Token attachedSymbol On Line 948
+            Warning - 1 : Skipping Token attachedSymbol On Line 962
+        EndSection
+
+        Section : Import Messages
+            Warning : Component GND does not have PCB footprint definition and will be skipped
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Mounting Hole Pad Converted To Rounded Pad
+            Warning : Component  ŒÕ“¿ “2 does not have PCB footprint definition and will be skipped
+            Warning : Component  –1564À¿3 does not have PCB footprint definition and will be skipped
+        EndSection
+    EndSection
+
+    Section : SCH Library - LAB03.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 63
+            Warning - 1 : Skipping Token padStyleDef On Line 73
+            Warning - 1 : Skipping Token padStyleDef On Line 83
+            Warning - 1 : Skipping Token viaStyleDef On Line 93
+            Warning - 1 : Skipping Token multiLayer On Line 252
+            Warning - 1 : Skipping Token layerContents On Line 256
+            Warning - 1 : Skipping Token multiLayer On Line 273
+            Warning - 1 : Skipping Token layerContents On Line 278
+            Warning - 1 : Skipping Token multiLayer On Line 293
+            Warning - 1 : Skipping Token layerContents On Line 297
+            Warning - 1 : Skipping Token multiLayer On Line 311
+            Warning - 1 : Skipping Token layerContents On Line 314
+            Warning - 1 : Skipping Token layerContents On Line 320
+            Warning - 1 : Skipping Token layerContents On Line 326
+            Warning - 1 : Skipping Token multiLayer On Line 339
+            Warning - 1 : Skipping Token layerContents On Line 343
+            Warning - 1 : Skipping Token multiLayer On Line 361
+            Warning - 1 : Skipping Token layerContents On Line 365
+            Warning - 1 : Skipping Token multiLayer On Line 382
+            Warning - 1 : Skipping Token layerContents On Line 387
+            Warning - 1 : Skipping Token multiLayer On Line 404
+            Warning - 1 : Skipping Token layerContents On Line 408
+            Warning - 1 : Skipping Token multiLayer On Line 422
+            Warning - 1 : Skipping Token layerContents On Line 426
+            Warning - 1 : Skipping Token layerContents On Line 429
+            Warning - 1 : Skipping Token defaultPinDes On Line 447
+            Warning - 1 : Skipping Token defaultPinDes On Line 455
+            Warning - 1 : Skipping Token defaultPinDes On Line 471
+            Warning - 1 : Skipping Token defaultPinDes On Line 479
+            Warning - 1 : Skipping Token defaultPinDes On Line 496
+            Warning - 1 : Skipping Token defaultPinDes On Line 512
+            Warning - 1 : Skipping Token defaultPinDes On Line 520
+            Warning - 1 : Skipping Token defaultPinDes On Line 541
+            Warning - 1 : Skipping Token defaultPinDes On Line 550
+            Warning - 1 : Skipping Token defaultPinDes On Line 563
+            Warning - 1 : Skipping Token defaultPinDes On Line 571
+            Warning - 1 : Skipping Token defaultPinDes On Line 579
+            Warning - 1 : Skipping Token defaultPinDes On Line 599
+            Warning - 1 : Skipping Token defaultPinDes On Line 616
+            Warning - 1 : Skipping Token defaultPinDes On Line 624
+            Warning - 1 : Skipping Token defaultPinDes On Line 643
+            Warning - 1 : Skipping Token defaultPinDes On Line 651
+            Warning - 1 : Skipping Token defaultPinDes On Line 668
+            Warning - 1 : Skipping Token defaultPinDes On Line 684
+            Warning - 1 : Skipping Token defaultPinDes On Line 692
+            Warning - 1 : Skipping Token defaultPinDes On Line 699
+            Warning - 1 : Skipping Token defaultPinDes On Line 717
+            Warning - 1 : Skipping Token defaultPinDes On Line 725
+        EndSection
+
+        Section : Generating SCH Library - LAB03.SchLib
+        EndSection
+    EndSection
+EndSection
