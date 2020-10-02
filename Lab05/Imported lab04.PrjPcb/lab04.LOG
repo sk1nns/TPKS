@@ -1,0 +1,64 @@
+PCAD Importer Log
+Project : lab04.PrjPcb
+
+Section : C:\Users\bleckhavk\Desktop\lab04\lab04.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 269
+        Warning - 1 : Skipping Token defaultPinDes On Line 270
+        Warning - 1 : Skipping Token defaultPinDes On Line 290
+        Warning - 1 : Skipping Token defaultPinDes On Line 291
+        Warning - 1 : Skipping Token defaultPinDes On Line 313
+        Warning - 1 : Skipping Token defaultPinDes On Line 314
+        Warning - 1 : Skipping Token defaultPinDes On Line 315
+        Warning - 1 : Skipping Token defaultPinDes On Line 316
+        Warning - 1 : Skipping Token defaultPinDes On Line 317
+        Warning - 1 : Skipping Token defaultPinDes On Line 318
+        Warning - 1 : Skipping Token defaultPinDes On Line 319
+        Warning - 1 : Skipping Token defaultPinDes On Line 320
+        Warning - 1 : Skipping Token defaultPinDes On Line 321
+        Warning - 1 : Skipping Token defaultPinDes On Line 322
+        Warning - 1 : Skipping Token defaultPinDes On Line 323
+        Warning - 1 : Skipping Token defaultPinDes On Line 324
+        Warning - 1 : Skipping Token defaultPinDes On Line 325
+        Warning - 1 : Skipping Token defaultPinDes On Line 326
+        Warning - 1 : Skipping Token defaultPinDes On Line 373
+        Warning - 1 : Skipping Token defaultPinDes On Line 374
+        Warning - 1 : Skipping Token attachedSymbol On Line 485
+        Warning - 1 : Skipping Token attachedSymbol On Line 507
+        Warning - 1 : Skipping Token attachedSymbol On Line 540
+        Warning - 1 : Skipping Token attachedSymbol On Line 571
+        Warning - 1 : Skipping Token attachedSymbol On Line 592
+        Warning - 1 : Skipping Token attachedSymbol On Line 614
+        Warning - 1 : Skipping Token attachedSymbol On Line 636
+        Warning - 1 : Skipping Token attachedSymbol On Line 658
+        Warning - 1 : Skipping Token attachedSymbol On Line 679
+        Warning - 1 : Skipping Token attachedSymbol On Line 701
+        Warning - 1 : Skipping Token refPointSize On Line 928
+        Warning - 1 : Skipping Token infoPointSize On Line 929
+        Warning - 1 : Skipping Token gluePointSize On Line 930
+        Warning - 1 : Skipping Token pickPointSize On Line 931
+        Warning - 1 : Skipping Token testPointSize On Line 932
+        Warning - 1 : Skipping Token refPointSizePrint On Line 933
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 934
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 935
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 936
+        Warning - 1 : Skipping Token testPointSizePrint On Line 937
+        Warning - 1 : Skipping Token solderFlowDirection On Line 938
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 939
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 940
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 941
+        Warning - 1 : Skipping Token drillSymSettings On Line 1490
+        Warning - 1 : Skipping Token gerberSettings On Line 1492
+        Warning - 1 : Skipping Token ncDrillSettings On Line 1506
+        Warning - 1 : Skipping Token programState On Line 1515
+        Warning - 1 : Skipping Token displayDrawOrder On Line 1556
+        Warning - 1 : Skipping Token reportSettings On Line 1779
+        Warning - 1 : Skipping Token odbSettings On Line 2476
+    EndSection
+
+    Section : Import Messages
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+        Warning : Mounting Hole Pad Converted To Rounded Pad
+    EndSection
+EndSection
