@@ -1,0 +1,67 @@
+PCAD Importer Log
+Project : LAB3.LibPkg
+
+Section : D:\University\Theory Of Computer Systems Design\Anton\ÕÓ‚‡ˇ Ô‡ÔÍ‡\LAB3.LIA
+    Section : PCB Library - LAB3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 339
+            Warning - 1 : Skipping Token defaultPinDes On Line 340
+            Warning - 1 : Skipping Token 193_N On Line 355
+            Warning - 1 : Skipping Token 196_N On Line 380
+            Warning - 1 : Skipping Token OP On Line 397
+            Warning - 1 : Skipping Token R500 On Line 459
+            Warning - 1 : Skipping Token VCC On Line 486
+            Warning - 1 : Skipping Token —“¿¡»À»“–ŒÕ On Line 500
+            Warning - 1 : Skipping Token attachedSymbol On Line 539
+            Warning - 1 : Skipping Token attachedSymbol On Line 565
+            Warning - 1 : Skipping Token attachedSymbol On Line 591
+            Warning - 1 : Skipping Token attachedSymbol On Line 611
+            Warning - 1 : Skipping Token attachedSymbol On Line 631
+            Warning - 1 : Skipping Token attachedSymbol On Line 649
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [2PAD][Primary] associated with PCAD Component [CON2] has been renamed to PCB FootPrint [2PAD_CON2(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DIP8][Primary] associated with PCAD Component [DIP8] has been renamed to PCB FootPrint [DIP8_DIP8(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - LAB3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 53
+            Warning - 1 : Skipping Token padStyleDef On Line 63
+            Warning - 1 : Skipping Token viaStyleDef On Line 73
+            Warning - 1 : Skipping Token multiLayer On Line 231
+            Warning - 1 : Skipping Token layerContents On Line 234
+            Warning - 1 : Skipping Token layerContents On Line 238
+            Warning - 1 : Skipping Token multiLayer On Line 252
+            Warning - 1 : Skipping Token layerContents On Line 256
+            Warning - 1 : Skipping Token layerContents On Line 260
+            Warning - 1 : Skipping Token multiLayer On Line 278
+            Warning - 1 : Skipping Token layerContents On Line 288
+            Warning - 1 : Skipping Token multiLayer On Line 315
+            Warning - 1 : Skipping Token layerContents On Line 319
+            Warning - 1 : Skipping Token layerContents On Line 322
+            Warning - 1 : Skipping Token multiLayer On Line 338
+            Warning - 1 : Skipping Token layerContents On Line 342
+            Warning - 1 : Skipping Token layerContents On Line 345
+            Warning - 1 : Skipping Token defaultPinDes On Line 363
+            Warning - 1 : Skipping Token defaultPinDes On Line 371
+            Warning - 1 : Skipping Token defaultPinDes On Line 388
+            Warning - 1 : Skipping Token defaultPinDes On Line 467
+            Warning - 1 : Skipping Token defaultPinDes On Line 475
+            Warning - 1 : Skipping Token defaultPinDes On Line 494
+            Warning - 1 : Skipping Token defaultPinDes On Line 508
+            Warning - 1 : Skipping Token defaultPinDes On Line 516
+        EndSection
+
+        Section : Generating SCH Library - LAB3.SchLib
+            Warning - 0 : PCAD Pattern Graphics [2PAD][Primary] associated with PCAD Component [CON2] has been renamed to PCB FootPrint [2PAD_CON2(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DIP8][Primary] associated with PCAD Component [DIP8] has been renamed to PCB FootPrint [DIP8_DIP8(Primary)].
+        EndSection
+    EndSection
+EndSection
